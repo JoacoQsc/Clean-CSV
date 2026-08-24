@@ -2,6 +2,8 @@
 
 Limpieza de un dataset sintético de empleados (1,020 filas) usando un flujo de trabajo estructurado y repetible en Pandas. El objetivo no fue arreglar un archivo puntual, sino construir un **proceso reutilizable** para cualquier dataset "messy".
 
+Proyecto: https://roadmap.sh/projects/clean-csv
+
 ## 📋 Descripción del proyecto
 
 El dataset incluye problemas típicos de datos del mundo real: tipos de datos mal inferidos, fechas en formato de texto, valores nulos, columnas categóricas por estandarizar y un campo numérico con datos claramente inválidos. Este proyecto documenta cada decisión de limpieza tomada, priorizando la trazabilidad y evitando "inventar" datos que no se pueden recuperar.
